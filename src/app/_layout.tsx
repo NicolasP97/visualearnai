@@ -24,5 +24,5 @@ export default function RootLayout() {
     );
   }
 
-  return <Stack></Stack>;
+  return <Stack />;
 }
